@@ -1,0 +1,6 @@
+name: Republic City Mod
+author: Ehnderzz
+version: 0.1
+description: TLAMinecraft restricted Republic City Mod
+main: com.tlaminecraft.RepublicCityMod.Main
+depend: [Vault]
